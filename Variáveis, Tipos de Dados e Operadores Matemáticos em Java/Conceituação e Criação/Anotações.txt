@@ -1,0 +1,27 @@
+Conceituação tem 4 tipos 
+Instancia: Objeto; 
+Classe: classe; 
+Local: dentro dos metodos;
+Parametro: Na assinatura do metodo
+
+
+Criação: <?visibilidade?><?modificador?>tipo nome <?=valorInicial>;
+V: "public", "protected", e "private"
+M: "static" e "final"
+T: tipo de dado
+N: nome que é fornecido a variavel
+VI: um valor inicial, caso se deseje
+
+
+Convenções e regras:
+* Nao devem começar com numeros
+* Embora permitido, "$" e "_" devem ser evitados
+* São case-sensitive(mesmo texto com caracteres diferentes ou seja variaveis diferentes)
+* Não se pode colocar espaço
+* Nao pode ser s palvras reservadas do Java
+
+Boas Praticas:
+* Sempre começar com letra minuscula
+* Nomes expressivos
+* Notação camelo (camelCase)
+* Quando for constante(final) todas as letras em maiúsculas e separada por "_"
