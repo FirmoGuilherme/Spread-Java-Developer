@@ -1,0 +1,5 @@
+Tipos de dados: Textual, numeral, lógico, objeto
+
+Exemplos de numerais mais utilizados: int, float, double
+Exemplos Textual: char (uma unica letra), String
+Exemplo Lógico: boolean (true or false)
