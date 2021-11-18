@@ -1,0 +1,5 @@
+Tipos de casting: 	Upcast (promoção de um tipo de dado ou seja menor para maior, implicito);
+			Downcast (pegar um tipod de dado maior e tranformar para menor, explicito).
+
+Exemplos:	long l; int i = 10; l =(implicito) i; (Upcast)
+		int i; long l = 100; i = (int (explicito)) l (Downcast)
