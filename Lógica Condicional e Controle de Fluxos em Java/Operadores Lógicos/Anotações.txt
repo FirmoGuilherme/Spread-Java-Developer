@@ -8,4 +8,4 @@ Disjunção: Simbologia (|| ou seja o famoso or(ou)) o resultado sempre sera ver
 
 Disjunção Exclusiva: Simbologia(^), operação que só é verdade quando ambos os operandos ou expressões sao opostos
 
-Negação: Simbologia(! ou seja inverção, se é V fica F se é F fica V)operação que inverte o vlaor lógico de um operando ou expressão 
+Negação: Simbologia(! ou seja inversão, se é V fica F se é F fica V)operação que inverte o vlaor lógico de um operando ou expressão 
