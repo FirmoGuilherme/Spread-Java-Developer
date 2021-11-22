@@ -1,0 +1,11 @@
+O que sao operadores logicos: São símbolos especiais quais sao capazes de realizar comparações lógicas entre operandos lógicos ou expressões e, em seguida, retornar um resultado.
+
+Tipos: Conjunção, Disjunção, Disjunção exclusiva, Negação
+
+Conjunção: Simbologia (&& ou seja o famoso And(e)) o resultado so é verdadeiro se o operandos ou expressões forem verdadeiras.
+
+Disjunção: Simbologia (|| ou seja o famoso or(ou)) o resultado sempre sera verdadeiro exceto quando os operandos ou expressões forem falsas.
+
+Disjunção Exclusiva: Simbologia(^), operação que só é verdade quando ambos os operandos ou expressões sao opostos
+
+Negação: Simbologia(! ou seja inverção, se é V fica F se é F fica V)operação que inverte o vlaor lógico de um operando ou expressão 
