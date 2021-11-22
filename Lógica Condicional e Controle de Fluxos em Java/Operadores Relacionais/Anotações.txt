@@ -1,0 +1,8 @@
+O que são operadores relacionais: São simbolos especiais quais sao capazes de realizar comparações entre determinados operandos e, em seguida, retornar um resultado.
+
+Tipos: Similaridade: igual(==), diferente(!=);
+	Tamanho: maior(>), maior igual(>=), menor(<), menor igual(<=).
+
+
+
+	
