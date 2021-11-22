@@ -1,0 +1,20 @@
+O que é controle de fluxo: São estruturas que tem a capacidade de direcionar o fluxo de execução do código.
+
+Tipos:
+	Decisão: if, if-else, if-else-if, switch e operador ternário
+	Repetição: for, while, do while
+	Interrupção: break, continue, return
+
+
+Decisão: Estrutura que avalia uma condição booleana ou variável para direcionar o fluxo de execução (if(se), switch(escolha) ou operador ternário).
+
+Ex.: if(idade > 18){		if(aprovado){		if(casado && temFilhos){
+	}			}else{			}else if(casado && semFilhos){
+				}			}else{
+							}
+
+Boas práticas: 	Switch é para valores exatos e if para expressões booleanas
+		Evitar usar o dafault do switch para "cases genéricos"
+		Evitar o efeito "flecha" dos if's
+		Evitas muitos if's aninhados
+		
