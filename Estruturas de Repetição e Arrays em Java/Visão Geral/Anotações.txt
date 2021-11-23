@@ -1,0 +1,8 @@
+Uma estrutura de repetição perimite que uma sequencia de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
+
+Classificação: 
+		Repetição com teste no inicio(while);
+		Repetição com teste no final(do-while);
+		Repetição contada(for).
+
+O comando break é utilizado para terminar de forma abrupta uma repetição.
