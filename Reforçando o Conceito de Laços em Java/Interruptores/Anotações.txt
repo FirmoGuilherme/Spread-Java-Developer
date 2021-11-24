@@ -1,0 +1,12 @@
+Interruptores: São comandos que tem a capacidade de modificar o fluxo de execução de loops ou métodos
+
+Tipos: 	Break, Continue, Return
+
+Break:		Interrompe a execução do for, while e switch;
+		Opções de uso: não marcada(unlabeled) e marcada(labeled).
+
+Continue:	Interrompe parcialmente a execução do for, while;
+		Opções de uso: não marcada(unlabeled) e marcada(labeled).
+
+Return:		Interrompe a execução de método;
+		Opções de uso: com valor e sem valor.
