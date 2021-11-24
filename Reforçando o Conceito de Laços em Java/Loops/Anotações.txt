@@ -1,0 +1,51 @@
+Loops: São estruturas que tem a capacidade de repitir a execução de um fluxo do codigo.
+
+Tipos:	For: conjuntos finitos
+	While: Condição permite
+
+Estrutura do For: 	for(inicio; fim; incremento){
+				// codigos
+			}
+
+Inicio: expressão que indica o ponto de inicio
+Fim: expressão que indica quando parar
+Incremento: expressão que faz o "for caminhar"
+
+ou seja: 	for(int i = 0; i<10; i++){
+		   sout("O valor de i é " + i);
+		}
+
+For invertido:	for(int i = 10; i>0; i--){
+		   sout("O valor de i é " + i);
+		}
+
+For each: 	for(<TipoDeDado> variavel : itens){
+			//codigos
+		}
+
+For com loop infinito:	for(;;){
+			  //codigos
+			}
+
+
+While:		while(expressão) {
+			//codigos
+		}
+
+Expressão = expressão booleana que permite e contra a execução do while
+
+While clássimo: 	while (tentativas <= limeteTentativas){
+				//Faz a pergunta do quiz
+				// Atualiza a quantidade de tentativas
+			}
+
+while infinito: 	while (true) {
+				// codigos
+		// ao final pode se verificar se ainda deve continuar
+			}
+
+Do-while:		do{
+		//Faz a pergunta do quiz
+		//Atualiza a quantidade de tentativas
+			} while (tentativas <= limiteTentativas);
+		
