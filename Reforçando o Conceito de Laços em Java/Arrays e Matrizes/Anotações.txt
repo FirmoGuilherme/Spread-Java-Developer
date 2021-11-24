@@ -1,0 +1,8 @@
+Arrays: É um tipo de dado especial, onde um conjunto de valroes podem ser armazenados.
+
+Caracteristicas: Sequencial, Finito e Fixo, Homogeneo, Indexado
+
+Padrão de definição e inicialização: 	<tipo>[] nome <?=valorInicial?>;
+							ou
+					<tipo> nome[] <?=valorInicial?>;
+
